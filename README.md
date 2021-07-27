@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @we2annor
+- 👋 Hi, I’m Ernest Annor
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning setting up javascript development environment
 - 💞️ I’m looking to collaborate on front end development
